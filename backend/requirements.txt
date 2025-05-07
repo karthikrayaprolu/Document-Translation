@@ -1,0 +1,6 @@
+flask
+flask-cors
+googletrans==3.1.0a0
+pdfplumber
+pandas
+openpyxl
