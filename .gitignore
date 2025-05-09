@@ -30,7 +30,12 @@ uploads/
 translations/
 backend/uploads/
 backend/translations/
-
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.cache/
+frontend/.next/
+frontend/package-lock.json
 # IDE
 .vscode/
 .idea/
