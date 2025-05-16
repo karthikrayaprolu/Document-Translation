@@ -1,4 +1,3 @@
-```markdown
 # Document Translation Application
 
 A web-based application that translates PDF documents by extracting key-value pairs and provides translations in Excel format.
