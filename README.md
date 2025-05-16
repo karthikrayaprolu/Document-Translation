@@ -31,22 +31,22 @@ document-translation/
 ├── frontend/
 │ ├── node_modules/ # Node.js dependencies
 │ ├── src/
-│ │ ├── components/ # React components
-│ │ ├── hooks/ # Custom React hooks
-│ │ ├── types/ # TypeScript type definitions
-│ │ ├── utils/ # Utility functions
-│ │ ├── App.tsx # Main React app component
-│ │ ├── main.tsx # Entry point for React app
-│ │ └── index.css # Global styles
-│ ├── index.html # HTML template
-│ ├── package.json # NPM dependencies and scripts
-│ ├── vite.config.ts # Vite build config
-│ ├── tsconfig.json # TypeScript config
-│ ├── tailwind.config.js # Tailwind CSS config
-│ ├── postcss.config.js # PostCSS config
-│ └── eslint.config.js # ESLint config
-├── README.md # Project overview and setup instructions
-├── .gitignore # Git ignore rules
+│ │ ├── components/
+│ │ ├── hooks/ 
+│ │ ├── types/ 
+│ │ ├── utils/ 
+│ │ ├── App.tsx 
+│ │ ├── main.tsx 
+│ │ └── index.css 
+│ ├── index.html 
+│ ├── package.json 
+│ ├── vite.config.ts 
+│ ├── tsconfig.json 
+│ ├── tailwind.config.js 
+│ ├── postcss.config.js 
+│ └── eslint.config.js 
+├── README.md 
+├── .gitignore 
 └── other-config-files/ # Other config files (optional)
 
 ````
